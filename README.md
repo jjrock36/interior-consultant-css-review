@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://github.com/jjrock36/interior-consultant-css-review.git">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://interior-consultant-css-review.netlify.app/">
       Solution
     </a>
     <span> | </span>
