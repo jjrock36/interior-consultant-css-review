@@ -72,7 +72,7 @@ i {
   color: var(--main-white);
   cursor: pointer;
 }
-@media screen and (min-width: 760px) {
+@media screen and (min-width: 800px) {
   body {
     padding-top: 1rem;
   }
@@ -105,7 +105,7 @@ i {
   display: grid;
   grid-template-rows: auto 1fr auto;
 }
-@media screen and (min-width: 760px) {
+@media screen and (min-width: 800px) {
   .main {
     max-width: 1200px;
     margin: 0 auto;
@@ -145,7 +145,7 @@ i {
 .active {
   font-weight: 700;
 }
-@media screen and (min-width: 760px) {
+@media screen and (min-width: 800px) {
   .nav-center {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -171,6 +171,7 @@ i {
 .hero-center {
   display: flex;
   flex-direction: column;
+  margin-bottom: 9rem;
 }
 .hero-info {
   display: flex;
@@ -243,7 +244,7 @@ i {
 .image-description {
   width: 20ch;
 }
-@media screen and (min-width: 760px) {
+@media screen and (min-width: 800px) {
   .hero-center {
     display: flex;
     flex-direction: row;
